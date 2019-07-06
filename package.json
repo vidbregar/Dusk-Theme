@@ -1,0 +1,28 @@
+{
+	"name": "dusk",
+	"displayName": "Dusk",
+	"description": "Minimalist dark theme",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dusk",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dusk-color-theme.json"
+			}
+		]
+	},
+	"publisher": "vidbregar",
+	"license": "SEE LICENSE IN LICENSE",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vidbregar/Dusk-Theme"
+	},
+	"icon": "dusk-icon.png"
+}
