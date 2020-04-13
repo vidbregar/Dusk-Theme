@@ -2,7 +2,7 @@
 	"name": "dusk",
 	"displayName": "Dusk",
 	"description": "Minimalist dark theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.36.0"
 	},
