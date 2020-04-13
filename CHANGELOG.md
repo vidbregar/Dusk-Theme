@@ -6,7 +6,7 @@ All notable changes to the "dusk" extension will be documented in this file.
 
 -   Initial release
 
-## [1.0.0] - 13. 4. 2020
+## [1.0.1] - 13. 4. 2020
 
 - Line numbers are now more visible
 - Comments are now more visible
